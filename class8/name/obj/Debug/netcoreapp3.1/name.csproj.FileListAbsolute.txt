@@ -1,0 +1,13 @@
+F:\JerryGame\C#\class8\name\bin\Debug\netcoreapp3.1\name.exe
+F:\JerryGame\C#\class8\name\bin\Debug\netcoreapp3.1\name.deps.json
+F:\JerryGame\C#\class8\name\bin\Debug\netcoreapp3.1\name.runtimeconfig.json
+F:\JerryGame\C#\class8\name\bin\Debug\netcoreapp3.1\name.runtimeconfig.dev.json
+F:\JerryGame\C#\class8\name\bin\Debug\netcoreapp3.1\name.dll
+F:\JerryGame\C#\class8\name\bin\Debug\netcoreapp3.1\name.pdb
+F:\JerryGame\C#\class8\name\obj\Debug\netcoreapp3.1\name.csprojAssemblyReference.cache
+F:\JerryGame\C#\class8\name\obj\Debug\netcoreapp3.1\name.AssemblyInfoInputs.cache
+F:\JerryGame\C#\class8\name\obj\Debug\netcoreapp3.1\name.AssemblyInfo.cs
+F:\JerryGame\C#\class8\name\obj\Debug\netcoreapp3.1\name.csproj.CoreCompileInputs.cache
+F:\JerryGame\C#\class8\name\obj\Debug\netcoreapp3.1\name.dll
+F:\JerryGame\C#\class8\name\obj\Debug\netcoreapp3.1\name.pdb
+F:\JerryGame\C#\class8\name\obj\Debug\netcoreapp3.1\name.genruntimeconfig.cache

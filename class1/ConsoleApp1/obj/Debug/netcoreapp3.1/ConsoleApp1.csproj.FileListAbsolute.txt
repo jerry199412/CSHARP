@@ -1,0 +1,13 @@
+F:\JerryGame\C#\class1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+F:\JerryGame\C#\class1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+F:\JerryGame\C#\class1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+F:\JerryGame\C#\class1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+F:\JerryGame\C#\class1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\JerryGame\C#\class1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\JerryGame\C#\class1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+F:\JerryGame\C#\class1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+F:\JerryGame\C#\class1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+F:\JerryGame\C#\class1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\JerryGame\C#\class1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\JerryGame\C#\class1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\JerryGame\C#\class1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
